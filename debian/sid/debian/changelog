@@ -1,3 +1,9 @@
+gz-math7 (6.999.999-2~sid) sid; urgency=medium
+
+  * Change package source name
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sat, 21 May 2022 18:29:19 +0200
+
 ignition-math7 (6.999.999-1~sid) sid; urgency=medium
 
   * Stub to be removed after first entry
