@@ -1,3 +1,9 @@
+gz-math7 (7.4.0-3~noble) noble; urgency=medium
+
+  * gz-math7 7.4.0-3 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 08 May 2024 17:00:52 +0200
+
 gz-math7 (7.4.0-2~noble) noble; urgency=medium
 
   * gz-math7 7.4.0-2 release
