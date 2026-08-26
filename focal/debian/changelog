@@ -1,3 +1,9 @@
+gz-math7 (7.7.0-1~focal) focal; urgency=medium
+
+  * gz-math7 7.7.0-1 release
+
+ -- Carlos Agüero <caguero@honurobotics.com>  Wed, 26 Aug 2026 11:58:47 +0200
+
 gz-math7 (7.6.0-1~focal) focal; urgency=medium
 
   * gz-math7 7.6.0-1 release
